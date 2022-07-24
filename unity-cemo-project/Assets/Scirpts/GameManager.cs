@@ -16,4 +16,15 @@ public class GameManager : MonoBehaviour
     {
         
     }
+
+    public void Haechan()
+    {
+        Debug.Log("Sex");
+    }
+
+    public void Sangdon()
+    {
+        Debug.Log("ABCD");
+
+    }
 }
